@@ -1,5 +1,5 @@
 Hi there, I'm Ali-Rida Ammar 👋
-🚀 CEO & Co-founder of Obsidian AB
+🚀 Startup Founder of Obsidian AB (in formation)
 🎓 Computer Science Enthusiast @ University West
 🔍 Fascinated by technology, especially computer processors
 📱 Aspiring to innovate in the smartphone industry
