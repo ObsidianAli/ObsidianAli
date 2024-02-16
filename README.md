@@ -1,5 +1,5 @@
 
-![AMD Processor](<iframe src="https://giphy.com/embed/hQVwUqAWm0ryxhFrDy" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/AMD-Official-hQVwUqAWm0ryxhFrDy">via GIPHY</a></p>)
+![AMD Processor](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTIwM2o3bWZtaTBndXF6ZmY5aGZnYmFvMDI1YzgxN3A0ZGZsM29xZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hQVwUqAWm0ryxhFrDy/giphy-downsized-large.gif)
 
 Hi there, I'm Ali-Rida Ammar 👋
 🚀 Startup Founder of Obsidian AB (in formation)
