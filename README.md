@@ -1,5 +1,5 @@
 
-![AMD Processor]([https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTIwM2o3bWZtaTBndXF6ZmY5aGZnYmFvMDI1YzgxN3A0ZGZsM29xZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hQVwUqAWm0ryxhFrDy/giphy-downsized-large.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm4wdWRienkza25odmk2cHg2czNsdHc3aTVqemRnMTIxMzRwcjYwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif))
+![AMD Processor](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm4wdWRienkza25odmk2cHg2czNsdHc3aTVqemRnMTIxMzRwcjYwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif)
 
 Hi there, I'm Ali-Rida Ammar 👋
 🚀 Startup Founder of Obsidian AB (in formation)
