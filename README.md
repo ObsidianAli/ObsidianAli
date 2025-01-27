@@ -3,10 +3,9 @@
 
 
 Hi there, I'm Ali-Rida Ammar 👋
-🚀 Startup Founder of Obsidian AB (in formation)
-🎓 Computer Science Enthusiast @ University West
+
+🎓 Computer Science Student @ University West
 🔍 Fascinated by technology, especially computer processors
-📱 Aspiring to innovate in the smartphone industry
 
 Connect With Me:
 Email: aliridaammar4@gmail.com
